@@ -1,11 +1,15 @@
 # resume
 
 https://github.com/jsonresume/resume-cli
+
 https://github.com/sedouard/resume
 
 
-http://blog.matthewfincher.com
-http://resume.matthewfincher.com
+[blog](http://blog.matthewfincher.com)
 
-http://blog.matthewfincher.net
-http://resume.matthewfincher.net
+[resume](http://resume.matthewfincher.com)
+
+
+[tech blog](http://blog.matthewfincher.net)
+
+[tech resume](http://resume.matthewfincher.net)
